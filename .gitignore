@@ -27,3 +27,10 @@
 *.i*86
 *.x86_64
 *.hex
+
+#project files
+*.cproject
+*.project
+
+#confidential files
+NTAG_driver
